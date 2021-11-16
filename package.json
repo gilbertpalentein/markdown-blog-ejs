@@ -22,5 +22,13 @@
   "devDependencies": {
     "nodemon": "^2.0.15"
   },
-  "description": ""
+  "description": "Tugas Besar IF-706 - Big Data",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zefanyasendri/markdown-blog-ejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zefanyasendri/markdown-blog-ejs/issues"
+  },
+  "homepage": "https://github.com/zefanyasendri/markdown-blog-ejs#readme"
 }
